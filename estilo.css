@@ -1,9 +1,10 @@
 div{
-  border: 1px solid black;
+  border: 0px solid black;
+
 }
 
 body{
-
+  background-color: black;
 }
 .logo{
   text-align: center;
@@ -11,8 +12,8 @@ body{
   padding: 0px;
 }
 
-.logo img{
-  width: 120px;
+.logo{
+  width: 100%;
 }
 
 h4{
@@ -20,6 +21,31 @@ h4{
   margin-top: 50px;
 }
 
-#banner_vertical{
-  height: 100%;
+h1{
+  font-size: 2em;
+  margin: 0px;
+}
+
+h2{
+  font-size: 1em;
+  margin: 0px;
+}
+.reds_soc{
+  width: 50%;
+  margin-top: 10px;
+}
+
+.centr{
+  text-align: center;
+}
+
+.tamn_img{
+  width: 80%;
+}
+
+.editor{
+  text-align: center;
+}
+.editor img{
+  border-radius: 250px;
 }
