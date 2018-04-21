@@ -1,0 +1,66 @@
+div{
+  border: 0px solid black;
+
+}
+
+body{
+  background-color: ;
+  background-image: url(../imagenes/fondo.jpg);
+}
+
+.logo1{
+    text-align: center;
+}
+
+.logo1 img{
+  margin: 0px;
+  padding: 0px;
+  border-radius: 10px;
+}
+
+
+h4{
+  font-size: 1.5em;
+  margin-top: 70px;
+  color: white;
+}
+
+h1{
+  font-size: 2em;
+  margin: 5px;
+}
+
+h2{
+  font-size: 1em;
+  margin: 0px;
+}
+.reds_soc{
+  width: 50%;
+  margin-top: 10px;
+}
+
+.reds_soc img{
+    border-radius: 5px;
+}
+
+.centr{
+  text-align: center;
+}
+
+.tamn_img{
+  width: 80%;
+}
+
+.editor{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.color1{
+  background-color: #e3f8f7;
+  padding: 10px;
+}
+.color2{
+    background-color: #0090ff;
+    padding: 10px;
+}
